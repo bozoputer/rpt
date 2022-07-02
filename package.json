@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "project-name",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bozoputer/cards.git"
+    "url": "git+https://github.com/bozoputer/PROJECT-NAME.git"
   },
   "author": "Bozoputer <dev@kathuria.dev>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bozoputer//issues"
+    "url": "https://github.com/bozoputer/PROJECT-NAME/issues"
   },
-  "homepage": "https://github.com/bozoputer/#readme",
+  "homepage": "https://github.com/bozoputer/PROJECT-NAME#readme",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
