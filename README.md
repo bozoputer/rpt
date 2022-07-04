@@ -31,7 +31,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About react-webpack-tailwind
+## About RWT
 RWT is a template for quickly scaffolding a React project with Tailwind CSS and webpack.
 
 
