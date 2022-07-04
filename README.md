@@ -31,8 +31,8 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## react-webpack-tailwind
-Template for scaffolding a React project with Tailwind CSS and webpack
+## About react-webpack-tailwind
+RWT is a template for quickly scaffolding a React project with Tailwind CSS and webpack.
 
 
 <!-- GETTING STARTED -->
@@ -83,7 +83,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
