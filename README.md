@@ -1,5 +1,5 @@
 <!-- PROJECT LOGO -->
-![rwt](https://user-images.githubusercontent.com/2061889/177218773-f18966f7-568f-487a-885b-f4df5022d752.jpg)
+![rwt](https://repository-images.githubusercontent.com/509832238/b326490d-0f4a-4b4b-973e-1384d14749c9)
 <div id="top"></div>
 
 <div align="center">
@@ -32,7 +32,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About RWT
-RWT is a template for quickly scaffolding a React project with webpack and Tailwind CSS.
+RWT is a template for quickly scaffolding a React project with webpack and Tailwind CSS (+ Prettier).
 
 
 <!-- GETTING STARTED -->
