@@ -38,7 +38,7 @@ RWT is a template for quickly scaffolding a React project with webpack and Tailw
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple example steps:
 
 ### Installation
 
