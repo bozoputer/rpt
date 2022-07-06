@@ -1,5 +1,5 @@
 {
-  "name": "pam",
+  "name": "rwt",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bozoputer/pam.git"
+    "url": "git+https://github.com/bozoputer/rwt.git"
   },
   "author": "Bozoputer <dev@kathuria.dev>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bozoputer/pam/issues"
+    "url": "https://github.com/bozoputer/rwt/issues"
   },
-  "homepage": "https://github.com/bozoputer/pam#readme",
+  "homepage": "https://github.com/bozoputer/rwt#readme",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
