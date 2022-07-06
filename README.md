@@ -47,11 +47,15 @@ To get a local copy up and running follow these simple example steps:
    git clone https://github.com/bozoputer/bozoputer/react-webpack-tailwind.git
    ```
 2. Search for all instances of **PROJECT-NAME** in `package.json` and update accordingly
-3. Install NPM packages
+3. Update the URL of the remote repo
+```sh
+git remote set-url origin <remote-name> <remote-url>
+```
+4. Install NPM packages
    ```sh
    npm install
    ```
-4. Run the app
+5. Run the app
    ```sh
    npm start
    ```
