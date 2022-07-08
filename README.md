@@ -5,9 +5,9 @@
 <div align="center">
   <p align="center">
     <br />
-    <a href="https://github.com/bozoputer/react-webpack-tailwind/issues">Report Bug</a>
+    <a href="https://github.com/bozoputer/rwt/issues">Report Bug</a>
     ·
-    <a href="https://github.com/bozoputer/react-webpack-tailwind/issues">Request Feature</a>
+    <a href="https://github.com/bozoputer/rwt/issues">Request Feature</a>
   </p>
 </div>
 
@@ -44,7 +44,7 @@ To get a local copy up and running follow these simple example steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/bozoputer/bozoputer/react-webpack-tailwind.git
+   git clone https://github.com/bozoputer/bozoputer/rwt.git
    ```
 2. Search for all instances of **PROJECT-NAME** in `package.json` and update accordingly
 3. Update the URL of the remote repo
@@ -60,7 +60,7 @@ git remote set-url origin <remote-name> <remote-url>
    npm start
    ```
 
-See the [open issues](https://github.com/bozoputer/react-webpack-tailwind/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/bozoputer/rwt/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -94,6 +94,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 [✉️](mailto:e@bozoputer.com)
 
-Project Link: [https://github.com/bozoputer/react-webpack-tailwind](https://github.com/bozoputer/react-webpack-tailwind)
+Project Link: [https://github.com/bozoputer/rwt](https://github.com/bozoputer/rwt)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
