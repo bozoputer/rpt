@@ -1,13 +1,13 @@
 <!-- PROJECT LOGO -->
-![rwt](https://repository-images.githubusercontent.com/509832238/8c87abac-3417-4b6b-bf34-bb55dde9e8f5)
+![rpt](https://repository-images.githubusercontent.com/509832238/8c87abac-3417-4b6b-bf34-bb55dde9e8f5)
 <div id="top"></div>
 
 <div align="center">
   <p align="center">
     <br />
-    <a href="https://github.com/bozoputer/rwt/issues">Report Bug</a>
+    <a href="https://github.com/bozoputer/rpt/issues">Report Bug</a>
     ·
-    <a href="https://github.com/bozoputer/rwt/issues">Request Feature</a>
+    <a href="https://github.com/bozoputer/rpt/issues">Request Feature</a>
   </p>
 </div>
 
@@ -31,8 +31,8 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About RWT
-RWT is a template for quickly scaffolding a React project with webpack and Tailwind CSS (+ Prettier and ESLint).
+## About rpt
+rpt is a template for quickly scaffolding a React project with Parcel and Tailwind CSS (+ Prettier and ESLint).
 
 
 <!-- GETTING STARTED -->
@@ -44,9 +44,9 @@ To get a local copy up and running follow these simple example steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/bozoputer/bozoputer/rwt.git
+   git clone https://github.com/bozoputer/bozoputer/rpt.git
    ```
-2. Search for all instances of **PROJECT-NAME** in `package.json` and update accordingly
+2. Search for all instances of **rpt** in `package.json` and update accordingly
 3. Update the URL of the remote repo
 ```sh
 git remote set-url origin <remote-name> <remote-url>
@@ -60,7 +60,7 @@ git remote set-url origin <remote-name> <remote-url>
    npm start
    ```
 
-See the [open issues](https://github.com/bozoputer/rwt/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/bozoputer/rpt/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -94,6 +94,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 [✉️](mailto:e@bozoputer.com)
 
-Project Link: [https://github.com/bozoputer/rwt](https://github.com/bozoputer/rwt)
+Project Link: [https://github.com/bozoputer/rpt](https://github.com/bozoputer/rpt)
 
 <p align="right">(<a href="#top">back to top</a>)</p>

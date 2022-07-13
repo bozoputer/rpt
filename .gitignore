@@ -1,7 +1,9 @@
 node_modules/
 dist/
+coverage/
+assets/
+requirements/
+.parcel-cache/
+.vscode/
 .env
 .DS_Store
-coverage/
-.vscode/
-assets/
