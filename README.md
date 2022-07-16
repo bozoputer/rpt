@@ -47,15 +47,16 @@ To get a local copy up and running follow these simple example steps:
    git clone https://github.com/bozoputer/bozoputer/rpt.git
    ```
 2. Search for all instances of **rpt** in `package.json` and update accordingly
-3. Update the URL of the remote repo
+3. Erase the contents of this `README.md` file and replace with details of and information about your project
+4. Update the URL of the remote repo
 ```sh
 git remote set-url origin <remote-name> <remote-url>
 ```
-4. Install NPM packages
+5. Install packages
    ```sh
    npm install
    ```
-5. Run the app
+6. Run the app
    ```sh
    npm start
    ```
